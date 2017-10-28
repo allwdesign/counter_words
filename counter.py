@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Module display the total number of words in files using
 command-line interface.
 
